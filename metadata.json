@@ -1,0 +1,6 @@
+{
+  "name": "Electro Hub",
+  "description": "Industrial machinery documentation, multi-page electrical CAD schematics, PLC I/O mapping, and Supabase cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

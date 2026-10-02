@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Gear Silhouette centered at (54,54) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,26c-15.46,0 -28,12.54 -28,28s12.54,28 28,28 28,-12.54 28,-28 -12.54,-28 -28,-28zM54,74c-11.05,0 -20,-8.95 -20,-20s8.95,-20 20,-20 20,8.95 20,20 -8.95,20 -20,20z"/>
+    <!-- Gear teeth -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M51,21h6v6h-6z M51,81h6v6h-6z M21,51h6v6h-6z M81,51h6v6h-6z M30,30h6v6h-6z M72,72h6v6h-6z M72,30h6v6h-6z M30,72h6v6h-6z"/>
+    <!-- Industrial IC / Processor core inside -->
+    <path
+        android:fillColor="#FF9100"
+        android:pathData="M43,43h22v22h-22z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M47,47h14v14h-14z"/>
+    <!-- Circuit lines radiating outward -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,34v-8 M54,74v8 M34,54h-8 M74,54h8 M40,40l-7,-7 M68,68l7,7 M68,40l7,-7 M40,68l-7,7"/>
+    <!-- Terminal Connection Nodes -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0 M84,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0 M54,24m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0 M54,84m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"/>
+</vector>
